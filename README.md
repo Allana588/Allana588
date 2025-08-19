@@ -1,4 +1,6 @@
-## Hi there 👋
+## Allana Marques Lima 👋
+- Eu sou aluna do 2° ano no curso Técnico em Informática, no IFCE - Campus Aracati.
+- Estou aprendendo as linguagens C, Python e JavaScript.
 
 <!--
 **Allana588/Allana588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

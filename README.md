@@ -1,12 +1,10 @@
 ## Olá, eu sou Allana Marques Lima 👋
 - Eu sou aluna do 2° ano no curso Técnico em Informática, no IFCE - Campus Aracati.
 - Estou aprendendo as linguagens C, Python e JavaScript.
-- E estou utilizando o GitHub para aprender Desenvolvimento Back-end
+- E estou utilizando o GitHub para aprender Desenvolvimento Back-end.
 
 <!--
 **Allana588/Allana588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
